@@ -1,0 +1,4 @@
+Resolusi :
+- Menguasai React JS dan Vue JS
+- Membuat beberapa landing page
+- Menguasai RESTFul API
